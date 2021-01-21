@@ -6,6 +6,6 @@ URL: **https://ibug.doc.ic.ac.uk/resources/fg-2020-competition-affective-behavio
 
 Team Name: **Cafarelli Master's Thesis**
 
-Team Members: Donato Cafarelli, Fabrizio Falchi, Fabio Massoli
+Team Members: Donato Cafarelli, Fabrizio Falchi, Fabio Valerio Massoli
 
 Affiliation: University of Pisa
