@@ -1,0 +1,8 @@
+Train with different configurations
+Choose between:
+- same resolution samples
+- multi resolution samples
+- affwild2 dataset
+- reshaped dataset (3 classes)
+- base model
+- "multi resolution" model
